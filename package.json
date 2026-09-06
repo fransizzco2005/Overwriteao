@@ -1,0 +1,14 @@
+{
+  "name": "discord-ai-bot",
+  "version": "1.0.0",
+  "description": "Multi-Channel Discord AI Assistant using Gemini API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
